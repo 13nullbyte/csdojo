@@ -6,6 +6,9 @@ https://www.youtube.com/watch?v=GBuHSRDGZBY
 
 I know this is not so good code but if u want to read other
 people code to ¿learn? just take it :)
+
+(This solution works for multiple numbers that total the same close number)
+
 */
 
 #include <iostream>
